@@ -1,0 +1,25 @@
+/* 
+Lua font used for piano text
+size = 22, weight = 400, antialias = true, font = "Impact" 
+*/
+
+* {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  background-color: #ffffff;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+#page-display {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #fdf5e2;
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
