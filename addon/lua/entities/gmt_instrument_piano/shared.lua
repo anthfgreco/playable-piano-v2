@@ -8,7 +8,7 @@ ENT.Category		= "Fun + Games"
 ENT.Spawnable		= true
 ENT.AdminSpawnable 	= true
 
-ENT.Model		= Model( "models/fishy/furniture/piano.mdl" )
+ENT.Model		= Model( "models/piano.mdl" )
 ENT.SoundDir	= "piano/"
 
 local darker = Color( 100, 100, 100, 150 )

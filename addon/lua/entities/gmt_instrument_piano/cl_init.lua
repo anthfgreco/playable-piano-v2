@@ -13,7 +13,7 @@ ENT.DefaultTextColor = Color( 150, 150, 150, 150 )
 ENT.DefaultTextColorActive = Color( 80, 80, 80, 150 )
 ENT.DefaultTextInfoColor = Color( 46, 20, 6, 255 )
 
-ENT.MaterialDir	= "gmod_tower/instruments/piano/piano_note_"
+ENT.MaterialDir	= "piano/piano_note_"
 
 ENT.KeyMaterials = {
 	["left"] = ENT.MaterialDir .. "left",
@@ -26,7 +26,7 @@ ENT.KeyMaterials = {
 }
 
 ENT.MainHUD = {
-	Material = "gmod_tower/instruments/piano/piano",
+	Material = "piano/piano",
 	X = ( ScrW() / 2 ) - ( 313 / 2 ),
 	Y = ScrH() - 316,
 	TextureWidth = 512,
@@ -36,7 +36,7 @@ ENT.MainHUD = {
 }
 
 ENT.AdvMainHUD = {
-	Material = "gmod_tower/instruments/piano/piano_large",
+	Material = "piano/piano_large",
 	X = ( ScrW() / 2 ) - ( 940 / 2 ),
 	Y = ScrH() - 316,
 	TextureWidth = 1024,

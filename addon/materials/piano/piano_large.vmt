@@ -1,6 +1,6 @@
 "UnLitGeneric"
 {
-	"$basetexture" "gmod_tower/instruments/piano/piano_note_left"
+	"$basetexture" "piano/piano_large"
 	"$ignorez"			1
 	"$vertexcolor" 		1
 	"$vertexalpha" 		1

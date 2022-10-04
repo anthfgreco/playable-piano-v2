@@ -2,8 +2,8 @@ ENT.Base		= "base_anim"
 ENT.Type		= "anim"
 ENT.PrintName	= "Instrument Base"
 
-ENT.Model		= Model( "models/fishy/furniture/piano.mdl" )
-ENT.ChairModel	= Model( "models/fishy/furniture/piano_seat.mdl" )
+ENT.Model		= Model( "models/piano.mdl" )
+ENT.ChairModel	= Model( "models/piano_seat.mdl" )
 ENT.MaxKeys		= 4 // how many keys can be played at once
 
 ENT.SoundDir	= "piano/note_"
