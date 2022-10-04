@@ -6,8 +6,8 @@ ENT.Model		= Model( "models/fishy/furniture/piano.mdl" )
 ENT.ChairModel	= Model( "models/fishy/furniture/piano_seat.mdl" )
 ENT.MaxKeys		= 4 // how many keys can be played at once
 
-ENT.SoundDir	= "GModTower/lobby/piano/note_"
-ENT.SoundExt 	= ".wav"
+ENT.SoundDir	= "piano/note_"
+ENT.SoundExt 	= ".mp3"
 
 INSTNET_USE		= 1
 INSTNET_HEAR	= 2

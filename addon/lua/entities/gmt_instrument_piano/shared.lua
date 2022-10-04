@@ -9,7 +9,7 @@ ENT.Spawnable		= true
 ENT.AdminSpawnable 	= true
 
 ENT.Model		= Model( "models/fishy/furniture/piano.mdl" )
-ENT.SoundDir	= "GModTower/lobby/instruments/piano/"
+ENT.SoundDir	= "piano/"
 
 local darker = Color( 100, 100, 100, 150 )
 

@@ -9,7 +9,7 @@ ENT.AllowAdvancedMode = true
 ENT.AdvancedMode = true
 ENT.ShiftMode = false
 
-ENT.PageTurnSound = Sound( "GModTower/inventory/move_paper.wav" )
+ENT.PageTurnSound = Sound( "move_paper.mp3" )
 surface.CreateFont( "InstrumentKeyLabel", {
 	size = 22, weight = 400, antialias = true, font = "Impact"
 } )
